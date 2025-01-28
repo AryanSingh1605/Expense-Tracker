@@ -1,4 +1,4 @@
-# Expense Tracker React app
+# Expense Tracker App
 
 ## Key features of the Expense Tracker website include:
 - 📝 Easy expense entry and categorization
